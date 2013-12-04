@@ -1,0 +1,12 @@
+{
+"name"         : "nmex",
+"url"          : "http://code.google.com/p/nmex/",
+"license"      : "MIT",
+"description"  : "OpenFL extensions for IOS/Android including AdMob, Game Center, Google Analytics and more.",
+"version"      : "2.0.0",
+"releasenote"  : "",
+"contributors" : ["jalbanesi"],
+"dependencies" : {
+"openfl"        : ""
+}
+}
